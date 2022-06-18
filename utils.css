@@ -1,0 +1,12 @@
+.d-flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.t-center{
+    text-align: center;
+}
+.m-20{
+    margin-bottom: 20px;
+}
